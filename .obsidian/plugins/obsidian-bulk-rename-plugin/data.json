@@ -1,0 +1,13 @@
+{
+  "folderName": "Routines\\/daily\\/.*daily(.*\\.md)",
+  "fileNames": [],
+  "existingSymbol": "",
+  "replacePattern": "",
+  "regExpState": {
+    "regExp": "",
+    "flags": [],
+    "withRegExpForReplaceSymbols": true
+  },
+  "tags": [],
+  "viewType": "folder"
+}

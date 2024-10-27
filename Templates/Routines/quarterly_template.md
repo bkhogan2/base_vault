@@ -1,0 +1,12 @@
+- [ ] Car
+	- [ ] Oil Change
+	- [ ] Inspection
+- [ ] Health
+	- [ ] Body composition test
+	- [ ] Dentist check-up
+- [ ] Declutter
+- [ ] **Supplies**
+	- [ ] Windshield Wiper Fluid
+- [ ] **Fitness**
+	- [ ] Progress Photos
+	- [ ] Record maxes

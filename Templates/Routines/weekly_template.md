@@ -1,0 +1,26 @@
+- [ ] Kitchen
+	- [ ] Dishes
+	- [ ] Counters
+	- [ ] Floors
+	- [ ] Trash
+- [ ] Bedroom
+	- [ ] Remove trash and dishes
+	- [ ] Tidy Desk
+	- [ ] Tidy closet
+- [ ] Bathroom
+- [ ] Garage
+- [ ] Charge devices
+	- [ ] headphones
+	- [ ] tablet
+	- [ ] Apple Pencil
+	- [ ] trimmers
+- [ ] Car
+	- [ ] Get gas
+	- [ ] Clean
+- [ ] Grocery Shopping 
+- [ ] Laundry
+- [ ] Shave
+- [ ] Exfoliate
+- [ ] Review and Update Calendar
+- [ ] JIRA Grooming
+- [ ] review transactions

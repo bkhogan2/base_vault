@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": true,
+  "showLineNumber": true,
+  "userIgnoreFilters": [
+    "database/vaults/"
+  ],
+  "propertiesInDocument": "hidden",
+  "promptDelete": false
+}

@@ -1,0 +1,21 @@
+- [ ] **Morning**
+	- [ ] Weigh In
+	- [ ] Make Bed
+	- [ ] Take Vitamins
+	- [ ] Eat breakfast
+	- [ ] Brush teeth
+	- [ ] Apply Sunscreen
+- [ ] **Afternoon**
+	- [ ] Eat Lunch
+	- [ ] Walk
+- [ ] **Project A**
+	- [ ] 
+- [ ] **Evening**
+	- [ ] Lift Weights
+	- [ ] Shower
+	- [ ] Eat Dinner
+- [ ] **Night**
+	- [ ] Set Alarm
+	- [ ] Take Vitamins
+	- [ ] Brush Teeth
+	- [ ] Charge Phone

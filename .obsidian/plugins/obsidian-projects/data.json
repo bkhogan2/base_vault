@@ -1,0 +1,231 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {
+        "status": {
+          "options": [
+            "Blocked",
+            "To Do",
+            "In Progress",
+            "Done"
+          ]
+        },
+        "tags": {}
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects/Make Money/tasks",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "Projects/Make Money/tasks",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "width": 186
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#db0a0a",
+                "condition": {
+                  "field": "status",
+                  "operator": "is-empty",
+                  "enabled": true
+                }
+              },
+              {
+                "color": "#e71313",
+                "condition": {
+                  "field": "tags",
+                  "operator": "is-empty",
+                  "enabled": true
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "name",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "6daa27c8-4cea-4f33-9ab9-9ba3551e8256",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "status",
+            "columns": {
+              "Blocked": {
+                "records": [],
+                "weight": 0
+              },
+              "To Do": {
+                "records": [
+                  "Projects/make_money/Untitled.md",
+                  "Projects/make_money/apply to jobs.md"
+                ],
+                "weight": 1
+              },
+              "In Progress": {
+                "records": [
+                  "Projects/make_money/update resume.md"
+                ],
+                "weight": 2
+              },
+              "Done": {
+                "records": [],
+                "weight": 3
+              },
+              "No status": {
+                "records": []
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "e13d2ba1-d57f-4738-b3ef-e4b7ead930a5",
+          "name": "Board",
+          "type": "board"
+        }
+      ],
+      "id": "5cda1ba3-9e18-4555-b2e4-96be17d2cadd",
+      "name": "make_money"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects/Contracting/Create Landing Page/tasks",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "name": {
+                "width": 239
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "9fca2831-e59a-47d0-86b6-d1b666c45ea4",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "630649f9-9478-43d7-8423-13a81e4e9672",
+          "name": "Board",
+          "type": "board"
+        }
+      ],
+      "id": "f4b4a8c8-aee0-455a-bccd-236ee2b8508a",
+      "name": "contracting"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "tag",
+        "config": {
+          "tag": "",
+          "hierarchy": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "35d1702d-d24e-40ec-8b9f-201a556f5568",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "391dd69e-ffff-4764-b8bb-76042b03426e",
+      "name": "test_project"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "sunday"
+    },
+    "commands": [
+      {
+        "project": "f4b4a8c8-aee0-455a-bccd-236ee2b8508a"
+      }
+    ],
+    "linkBehavior": "open-editor"
+  }
+}

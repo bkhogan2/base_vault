@@ -1,0 +1,12 @@
+{
+  "accentColor": "#0039e6",
+  "enabledCssSnippets": [
+    "dataview",
+    "disable_create_file_from_link",
+    "disable_hide"
+  ],
+  "theme": "moonstone",
+  "cssTheme": "Blue Topaz",
+  "translucency": true,
+  "baseFontSizeAction": true
+}

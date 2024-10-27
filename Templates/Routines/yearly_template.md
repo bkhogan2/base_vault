@@ -1,0 +1,5 @@
+- [ ] reflect on goals
+- [ ] declutter
+- [ ] plan next year
+- [ ] reflect on progress
+- [ ] create details on all checklists and look for ways to automate

@@ -1,0 +1,39 @@
+- [ ] **Financial**
+	- [ ] Pay Rent
+	- [ ] Pay Water
+	- [ ] Pay Electricity
+	- [ ] Pay Internet
+	- [ ] Pay Credit Cards
+	- [ ] Make new budget
+	- [ ] Review Transactions
+	- [ ] Invest Money
+		- [ ] Review Amount Saved
+		- [ ] Distribute to Investments
+- [ ] **Goals**
+	- [ ] Review Monthly/Quarterly Progress
+	- [ ] Set Goals and Organize Projects
+- [ ] **Supplies**
+	- [ ] **Kitchen**
+		- [ ] Trash Bags
+		- [ ] Paper Towels
+		- [ ] Dishwasher fluid
+	- [ ] **Food**
+	- [ ] **Bathroom**
+		- [ ] Toilet Paper
+		- [ ] Hand Soap
+		- [ ] Cleaning Spray
+		- [ ] Gloves
+		- [ ] Toilet bowl cleaner
+	- [ ] **Health and Hygiene**
+		- [ ] Deodorant
+		- [ ] Toothpaste
+		- [ ] toothbrush heads
+		- [ ] Floss
+		- [ ] loofahs
+		- [ ] shampoo
+		- [ ] body wash
+	- [ ] **Grooming**
+		- [ ] Hair Spray
+	- [ ] **Bedroom**
+		- [ ] Laundry Detergent
+		- [ ] Air Freshener
